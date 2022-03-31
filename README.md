@@ -1,2 +1,2 @@
-# Redis_Database
+# Redis_Database_Project
 a Python script that imports data from a dummy CSV file into a remote Redis database The dummy CSV file can contain any data that you want but the same data must be imported into the remote Redis database. Once you do that, you'll then be required to write Python code that retrieves, updates, and deletes the same data from the Redis database. Do note that while retrieving the data from Redis, you will be required to store it in a Pandas data frame.
